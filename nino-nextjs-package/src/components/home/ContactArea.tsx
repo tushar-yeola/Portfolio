@@ -61,8 +61,8 @@ export default function ContactArea() {
                 <div className="single-contact wow fadeInUp" data-wow-delay=".6s">
                   <h2>Socials</h2>
                   <div className="about-social">
-                    <ul> 
-                      <li><a target='_blank' href="https://leetcode.com/u/tushar-yeola/"><i className="ri-facebook-circle-fill"></i></a></li>
+                    <ul>
+                      <li><a target='_blank' href="https://leetcode.com/u/tushar-yeola/"><img src="/assets/images/custom/image.png" alt="LeetCode" style={{ width: '23px', height: '23px', objectFit: 'contain', verticalAlign: 'middle', borderRadius: '4px' }} /></a></li>
                       <li><a target='_blank' href="https://x.com/TYeola2006"><i className="ri-twitter-x-line"></i></a></li>
                       <li><a target='_blank' href="https://www.linkedin.com/in/tushar-yeola/"><i className="ri-linkedin-fill"></i></a></li>
                       <li><a target='_blank' href="https://github.com/tushar-yeola"><i className="ri-github-line"></i></a></li>
@@ -71,7 +71,7 @@ export default function ContactArea() {
                 </div>
 
               </div>
-            </div> 
+            </div>
 
             <div className="col-lg-8">
               <div className="contact-form contact-form-area wow fadeInUp delay-0-4s">

@@ -13,11 +13,11 @@ interface DataType {
 const portfolio_data: DataType[] = [
   {
     id: 1,
-    category: "MACHINE LEARNING • AI",
-    title: "Subsurface Ghost",
-    description: "AI agricultural risk prediction using CNN and ViT models on Sentinel-2 satellite imagery, reaching 93.6% test accuracy with multilingual RAG-grounded crop advisories.",
-    tags: ["PyTorch", "CNN", "ViT", "RAG"],
-    sourceCodeLink: "https://github.com/tushar-yeola/Subsurface-Ghost",
+    category: "AGENTIC AI • LLMs",
+    title: "SentinelCX- AI Customer Support Agent",
+    description: "Built a secure multi-agent customer support system using FastAPI, LangGraph, and ChromaDB RAG. Prevented 8/8 red-team attacks, eliminated PII leaks, and routed 100% of refunds above ₹2,000 to humans through deterministic policy gates and human-in-the-loop workflows.",
+    tags: ["LangGraph", "RAG", "LLMs", "ChromDB"],
+    sourceCodeLink: "https://github.com/tushar-yeola/SentinelCX",
   },
   {
     id: 2,
@@ -36,12 +36,12 @@ const portfolio_data: DataType[] = [
     sourceCodeLink: "https://github.com/tushar-yeola/Sahayata",
   },
   {
-    id: 4,
-    category: "AGENTIC AI • LLMS",
-    title: "Cognitive-Agent-Workflow",
-    description: "Autonomous multi-agent research workflow built with LangGraph and LangChain, integrating RAG and Model Context Protocol (MCP) servers to automate literature review.",
-    tags: ["LangGraph", "LangChain", "LLMs", "MCP"],
-    sourceCodeLink: "https://github.com/tushar-yeola/Cognitive-Agent-Workflow",
+    id: 1,
+    category: "MACHINE LEARNING • AI",
+    title: "Subsurface Ghost",
+    description: "AI agricultural risk prediction using CNN and ViT models on Sentinel-2 satellite imagery, reaching 93.6% test accuracy with multilingual RAG-grounded crop advisories.",
+    tags: ["PyTorch", "CNN", "ViT", "RAG"],
+    sourceCodeLink: "https://github.com/tushar-yeola/Subsurface-Ghost",
   },
 ];
 

@@ -23,9 +23,9 @@ const blog_data: BlogType[] = [
   },
   {
     id: 3,
-    title: "PictoFest Coordinator — Pictorial",
-    category: "Leadership",
-    description: "Sep 2024 – Jan 2025",
+    title: "Finalist- Mastercard CodeforChange'26 Hackathon",
+    category: "Hackathon",
+    description: "Leadership • Teamwork • Problem Solving",
   },
   {
     id: 4,
@@ -35,13 +35,13 @@ const blog_data: BlogType[] = [
   },
   {
     id: 5,
-    title: "Multi-channel Attendee Communication",
-    category: "Leadership",
-    description: "20% fewer support requests • 4.6/5 satisfaction",
+    title: "AWS Project Intern",
+    category: "Internship",
+    description: "AWS • Intern • Real-World Solutions ",
   },
   {
     id: 6,
-    title: "24-Hour Fintech Hackathon",
+    title: "Winner- 24-Hour Fintech Hackathon",
     category: "Hackathon",
     description: "Team Lead — team of 4 — SARcastic AI",
   },
